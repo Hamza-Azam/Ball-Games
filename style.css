@@ -1,0 +1,10 @@
+#container{
+    border: 2px rosybrown solid;
+    background-color: #f0f8ffdc ;
+    height: 70vh;
+    overflow: auto;
+}
+.ball1{
+    width: 40px;
+    position: absolute;
+}
